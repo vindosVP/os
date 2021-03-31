@@ -1,0 +1,5 @@
+/home/vadim/Desktop/os/lab6/CMakeFiles/rebuild_cache.dir
+/home/vadim/Desktop/os/lab6/CMakeFiles/edit_cache.dir
+/home/vadim/Desktop/os/lab6/CMakeFiles/functions.dir
+/home/vadim/Desktop/os/lab6/CMakeFiles/terminal.dir
+/home/vadim/Desktop/os/lab6/CMakeFiles/child_node.dir

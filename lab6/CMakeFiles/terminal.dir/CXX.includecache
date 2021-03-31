@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vadim/Desktop/os/lab6/main_node.cpp
+iostream
+-
+zmq.hpp
+/home/vadim/Desktop/os/lab6/zmq.hpp
+string
+-
+zconf.h
+-
+vector
+-
+signal.h
+-
+sstream
+-
+set
+-
+algorithm
+-
+server_functions.h
+/home/vadim/Desktop/os/lab6/server_functions.h
+
+/home/vadim/Desktop/os/lab6/server_functions.h
+string
+-
+zconf.h
+-
+zmq.hpp
+/home/vadim/Desktop/os/lab6/zmq.hpp
+
